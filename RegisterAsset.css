@@ -1,0 +1,29 @@
+.bg-light{
+    height: 100%;
+  }
+.head{
+    height: 100%;
+}
+
+.container {
+    max-width: 960px;
+    color: white;
+  }
+
+  .bg {
+    background-image: url("img/Logo.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  #footer{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    padding-top: 2px !important;
+  }
+
+ 
+
+  
