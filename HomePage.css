@@ -6,7 +6,9 @@ body {
     padding-top: 3rem;
     padding-bottom: 3rem;
     color: #5a5a5a;
+    background-color: rgb(190, 203, 206) !important;
   }
+
   
 
   .maor1
@@ -35,11 +37,11 @@ body {
   
   /* Carousel base class */
   .carousel {
-    margin: 30px;
+    margin-bottom: 30px;
   }
   /* Since positioning the image, we need to help out the caption */
   .carousel-caption {
-    bottom: 3rem;
+    bottom: 32rem;
     z-index: 10;
   }
   
@@ -61,7 +63,7 @@ body {
   
   /* Center align the text within the three columns below the carousel */
   .marketing .col-lg-4 {
-    margin-bottom: 1.5rem;
+    margin-top: 20px;
     text-align: center;
   }
   .marketing h2 {
