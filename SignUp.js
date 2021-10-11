@@ -13,9 +13,22 @@
             event.preventDefault()
             event.stopPropagation()
           }
-  
           form.classList.add('was-validated')
         }, false)
       })
+
+
+
+
+
   })()
+
+  /*function checkPassword() {
+    var myPassword = document.getElementById("password");
+    var myRePassword = document.getElementById("re-password");
+    if(myPassword != myRePassword){
+      return false;
+    }
+    return true;
+  }*/
   
